@@ -1,0 +1,26 @@
+:root {
+  --purple-color: #6c136f;
+  --green-color: #32ad1e;
+  --gray-color: #f4f6f7;
+  --gray2-color: #5f727f;
+  --gray3-color: #c9d1d8;
+  --gray4-color: #748590;
+  --white-color: #ffffff;
+  --blue-color: #00bcd4;
+  --blue2-color: #309df8;
+  --black-color: #2c2e3d;
+  --pink-color: #d74498;
+  --wrapper: 192rem;
+  --container: 117rem;
+  --primary-font: "Montserrat";
+  --secondary-font: "Source Sans Pro";
+}
+
+.wrapper {
+  max-width: var(--wrapper);
+  margin: 0 auto;
+}
+.container {
+  max-width: var(--container);
+  margin: 0 auto;
+}
